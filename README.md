@@ -40,7 +40,7 @@ All demos and docs relevant to MSTeams
 
 * [Bot authentication in graphs](https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2017/05/15/bot-authentication-in-the-bot-framework/)
 
-* [Human Handoff] (https://github.com/MissionMarsFourthHorizon/operation-max)
+* [Human Handoff](https://github.com/MissionMarsFourthHorizon/operation-max)
 
 ## Roadmaps
 
