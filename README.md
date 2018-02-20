@@ -44,7 +44,6 @@ All demos and docs relevant to MSTeams
 
 ## Roadmaps
 
-* [Skype for Business to Microsoft Teams Capabilities Roadmap] (https://skypeandteams.blob.core.windows.net/artefacts/Skype%20for%20Business%20to%20Teams%20Capabilities%20Roadmap.pdf)
+* [Skype for Business to Microsoft Teams Capabilities Roadmap](https://skypeandteams.blob.core.windows.net/artefacts/Skype%20for%20Business%20to%20Teams%20Capabilities%20Roadmap.pdf)
 
-* [O365 Roadmap] 
-(https://products.office.com/en-us/business/office-365-roadmap)
+* [O365 Roadmap](https://products.office.com/en-us/business/office-365-roadmap)
